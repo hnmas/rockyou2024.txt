@@ -4,9 +4,11 @@
 ## Magnet Link for Downloading
 Download Rockyou2024.txt by copy this link: 
 
+磁链下载地址：
 > **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
->
-https://s3.timeweb.cloud/fd51ce25-6f95e3f8-263a-4b13-92af-12bc265adb44/rockyou2024.zip
+
+直接下载地址：
+> **https://s3.timeweb.cloud/fd51ce25-6f95e3f8-263a-4b13-92af-12bc265adb44/rockyou2024.zip**
  
 ## SHA256 Hash
 rockyou2024.zip - 
