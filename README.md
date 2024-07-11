@@ -5,6 +5,8 @@
 Download Rockyou2024.txt by copy this link: 
 
 > **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
+>
+https://s3.timeweb.cloud/fd51ce25-6f95e3f8-263a-4b13-92af-12bc265adb44/rockyou2024.zip
  
 ## SHA256 Hash
 rockyou2024.zip - 
