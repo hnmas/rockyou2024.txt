@@ -19,9 +19,7 @@ rockyou2024.txt -
 
  
 ## File Information
-压缩包：50G
 - **Archived file size (rockyou2024.zip):** Approximately 50 GB
-解压后：160G 
 - **Raw file size(rockyou2024.txt):** Approximately 160 GB
 
 ## Tags
